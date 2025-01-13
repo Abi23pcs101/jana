@@ -44,7 +44,7 @@ if "csv_data" not in st.session_state:
 st.title("CSV Chatbot")
 
 # Direct CSV file path
-csv_file_path = r"C:\Users\Jana Sorupaa\OneDrive\Desktop\chatbot\sample 1000.csv"  
+csv_file_path = r"C:/Users/Jana Sorupaa/OneDrive/Desktop/chatbot/sample 1000.csv"  
 
 # Load the CSV file directly with error handling
 try:
